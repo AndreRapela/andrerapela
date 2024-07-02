@@ -15,4 +15,3 @@ https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&
    <a href="https://instagram.com/andrerapela" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/andrerapela/andrerapela/output/github-contribution-grid-snake.svg">
